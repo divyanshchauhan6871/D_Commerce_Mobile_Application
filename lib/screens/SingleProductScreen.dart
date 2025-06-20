@@ -213,18 +213,6 @@ class SingleProductScreen extends StatelessWidget {
               icon: Icon(Icons.shopping_bag_outlined, color: Colors.black),
               label: Text("Products", style: Divyansh.bottomnav),
             ),
-            userProvider.authenticated
-                ? ElevatedButton.icon(
-                  onPressed: () {
-                    Navigator.pushNamed(context, '/login');
-                  },
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.cyanAccent.shade400,
-                  ),
-                  icon: Icon(Icons.shopping_bag_outlined, color: Colors.black),
-                  label: Text("Products", style: Divyansh.bottomnav),
-                )
-                : Text(""),
 
             ElevatedButton.icon(
               onPressed: () {
