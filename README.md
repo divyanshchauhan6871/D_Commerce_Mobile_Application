@@ -41,6 +41,10 @@ API Communication: HTTP / Dio
 
 Authentication: (e.g., JWT or Firebase Auth – if applicable)
 
+<video width="640" height="360" controls>
+  <source src="/demo_video/recording.mp4" type="video/mp4">
+</video>
+
 <img src="https://github.com/user-attachments/assets/e3e85119-1fc7-4c81-b542-10e1aae9a689" alt="demo" width="300">
 <img src="https://github.com/user-attachments/assets/3c768274-8a7c-43db-9446-aec7e3834a0e" alt="demo" width="300">
 <img src="https://github.com/user-attachments/assets/58b9bd9a-33e8-4c6f-81dc-4479ba351392" alt="demo" width="300">
